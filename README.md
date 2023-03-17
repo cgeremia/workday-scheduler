@@ -20,8 +20,7 @@ A workday scheduler using moment.js
 No
 
 ## Usage
-
-No
+https://cgeremia.github.io/workday-scheduler/
 
 ## License
 
